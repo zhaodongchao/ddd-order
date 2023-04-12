@@ -5,6 +5,12 @@
     <groupId>org.dong</groupId>
     <artifactId>ddd-order</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <modules>
+        <module>order-application</module>
+        <module>order-interfaces</module>
+        <module>order-domain</module>
+        <module>order-infrastructure</module>
+    </modules>
     <name>ddd-order</name>
     <packaging>pom</packaging>
     <description>使用DDD的架构设计思想来构建一个保险交易订单服务</description>
