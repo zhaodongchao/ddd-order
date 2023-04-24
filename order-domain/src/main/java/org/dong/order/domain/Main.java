@@ -1,4 +1,4 @@
-package org.dong.infrastructure;
+package org.dong.order.domain;
 
 public class Main {
     public static void main(String[] args) {
